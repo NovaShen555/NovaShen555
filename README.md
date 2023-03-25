@@ -1,5 +1,4 @@
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=NovaShen555&theme=xcode" /> </div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NovaShen555)](https://github.com/NovaShen555/github-readme-activity-graph)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
