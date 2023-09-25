@@ -2,7 +2,7 @@
 Hi 👋 My name is NovaShen
 =========================
 
-Learn JAVA fr 2022, study at NanNing NO.3 High School
+Learn JAVA fr 2022, study at NanNing
 
 * 🌍  I'm based in NanNing
 * 🖥️  See my portfolio at [blog](http://www.novashen.top/)
