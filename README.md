@@ -5,7 +5,7 @@ Hi 👋 My name is NovaShen
 Learn JAVA fr 2022, study at NanNing
 
 * 🌍  I'm based in NanNing
-* 🖥️  See my portfolio at [mysite](http://novashen.top/)
+* 🖥️  See my portfolio at [mysite](https://www.novashen.top/)
 * ✉️  You can contact me at [admin@novashen.top](mailto:admin@novashen.top)
 * 🧠  Hard learning for CEE
 
